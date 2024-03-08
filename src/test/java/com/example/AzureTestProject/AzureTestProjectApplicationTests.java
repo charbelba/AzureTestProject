@@ -1,0 +1,13 @@
+package com.example.AzureTestProject;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AzureTestProjectApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
